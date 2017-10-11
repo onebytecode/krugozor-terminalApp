@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.onebytecode.krugozor_terminalapp">
+    package="com.example.onebytecode.krugozor_terminalapp">
 
     <application
         android:allowBackup="true"

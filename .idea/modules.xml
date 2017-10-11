@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/krugozor-terminalApp.iml" filepath="$PROJECT_DIR$/krugozor-terminalApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/krugozorterminalApp.iml" filepath="$PROJECT_DIR$/krugozorterminalApp.iml" />
     </modules>
   </component>

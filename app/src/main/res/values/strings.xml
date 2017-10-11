@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">krugozor-terminalApp</string>
+    <string name="app_name">KrugozorTerminal</string>
+    <string name="description">QR Scan for Krugozor </string>
+    <string name="read_qrcode">QR Scan </string>
+    <string name="result_title">QR Result </string>
+
 </resources>
